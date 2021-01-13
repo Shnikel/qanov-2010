@@ -5,3 +5,4 @@
 4. Unique password is chosen for new registration
 5. Redirection to Sign in page
 ```
+This is new edit
